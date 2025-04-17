@@ -1,6 +1,6 @@
 # 🍪 Cookie Clicker Automation Bot
 
-This is a Python-based bot that automates the popular [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) game using **Selenium** and **BeautifulSoup**. The bot automatically clicks cookies, buys upgrades, and keeps your game running — completely hands-free!
+This is a Python-based bot that automates the popular [Cookie Clicker](https://orteil.dashnet.org/experiments/cookie/) game using **Selenium** and **BeautifulSoup**. The bot automatically clicks cookies, buys upgrades, and keeps your game running — completely hands-free!
 
 ---
 
